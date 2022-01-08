@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Fall in love with process, not with the final results. During that; rest at the end, not in the middle. #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,9 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Electrical and Electronics Engineer at [Koç University](https://eng.ku.edu.tr/en/) in Istanbul. I am doing tracks in Artifical Intelligence and Digital Signal Processing.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior [Electrical and Electronics Engineer (EEE)](https://ee.ku.edu.tr) at [Koç University](https://eng.ku.edu.tr/en/). I am doing tracks in both Artifical Intelligence and Digital Signal Processing in addition to my Major. My research focus on morphological analysis for Turkish language models and explore the unsupervised acquisition of it by using character-based transformers as a NLP task by being a part of [KUIS AI](https://ai.ku.edu.tr). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also working on Computer Vision problems suchs as object detion, person counting, person tracking and etc. Beside training a neural network with huge amounts of parameters, it is really hard to embedd them in a mobile embedded device.I am making and training efficient object-detection algorithms by implementing and combining SoTA backbone model architectures, and optimizing them to make them able to run in small CPU's and GPU's in a mobile embedded platform.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I enjoy running, going to gym, reading, and following Euro-League Basketball. I also used be a member of [Harley-Davisdon Owners Group (HOG)](https://harley-davidson-istanbul-east.com/harley-owners-group), and I really like talking about motorcycles. If you want to have a chat, just reach me and let's have coffee together.
+
