@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-WILL BE PUBLISHED SOON !!!
+WILL BE PUBLISHED SOON (2-3 Weeks) !
 
 I am a senior [Electrical and Electronics Engineer (EEE)](https://ee.ku.edu.tr) at [Koç University](https://eng.ku.edu.tr/en/)-studying on NLP, Deep Learning. I am doing tracks in both Artifical Intelligence and Digital Signal Processing in addition to my Major. Morphology has been a basis of linguistics and being able to understand the morphological structure of a language (like every 3 or 4 years old child) is on of the most sophisticated task in NLU. My research focuses on morphological analysis for Turkish language models and explore the unsupervised acquisition of it by using character-based transformers under [KUIS AI Center](https://ai.ku.edu.tr). 
 
