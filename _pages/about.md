@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-description:  #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: May the GPU with you. #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
