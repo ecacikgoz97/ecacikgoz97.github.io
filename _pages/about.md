@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-permalink: /About Me/
+permalink: /
 description: Fall in love with process, not with the final results. During that; rest at the end, not in the middle. #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
