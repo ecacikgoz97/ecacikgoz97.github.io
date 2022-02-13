@@ -16,7 +16,7 @@ footer_text: >
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: π # the emoji used as the favicon
-url: https://eacikgoz97.github.io # the base hostname & protocol for your site
+url: https://ecacikgoz97.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -139,43 +139,43 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
-  - jekyll-diagrams
+  #- jekyll-archives
+  #- jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-github-metadata
-  - jekyll-imagemagick
+  #- jekyll-imagemagick
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-target-blank
+  #- jekyll-sitemap
+  #- jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
-defaults:
-  - scope:
-      path:            "assets/**/*.*"
-    values:
-      sitemap:         false
+###defaults:
+  ##- scope:
+      #path:            "assets/**/*.*"
+    #values:
+      #sitemap:         false
 
 # Extras
-github: [metadata]
+#github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+#jekyll-archives:
+  #3enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  ##layouts:
+    #year: archive-year
+    #tag: archive-tag
+    #category: archive-category
+  #permalinks:
+    #year: '/blog/:year/'
+    #tag: '/blog/tag/:name/'
+    #category: '/blog/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -231,7 +231,7 @@ imagemagick:
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
 
-jekyll-diagrams:
+#jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
 

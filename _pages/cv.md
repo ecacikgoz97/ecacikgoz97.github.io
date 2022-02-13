@@ -3,12 +3,13 @@ layout: page
 permalink: /CV/
 title: Curriculum Vitae
 nav: true
-description: About Me
+description: Short Info
 social: true
 ---
 
 ### Education
 Bachlor of Science in Electrical and Electronics Engineering at [Koç University](https://www.ku.edu.tr/) 
+
 Tracks in Artificial Intelligence and Digital Signal Processing
 
 Graduated from Kadikoy Anatolian High School at 2017

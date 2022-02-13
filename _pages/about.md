@@ -25,5 +25,5 @@ Morphology has been a basis of linguistics, and being able to understand the mor
 
 I am also working on Computer Vision problems in object detion, object counting, and object tracking. Since training deep neural networks requires huge amounts of parameters, it is hard to embed them in a mobile devices. I am interested in efficient object-detection algorithms by implementing and combining SoTA backbone model architectures to make them able to deploy in micro-chips in a mobile embedded platform. 
 
-I enjoy going to gym, snowboarding, running, and reading. I used to be a member of [Harley-Davisdon Owners Group (HOG)](https://harley-davidson-istanbul-east.com/harley-owners-group) for six years.
+I enjoy going to gym, snowboarding, running, and reading. I used to be a member of [Harley-Davidson Owners Group (HOG)](https://harley-davidson-istanbul-east.com/harley-owners-group) for six years.
 
