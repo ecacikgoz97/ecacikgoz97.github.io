@@ -5,7 +5,7 @@ permalink: /
 description: May the GPU with you. #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: emrecan.jpeg
   address: >
     <p>eacikgoz17[at]ku.edu.tr</p>
