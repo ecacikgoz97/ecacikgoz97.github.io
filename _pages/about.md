@@ -9,7 +9,7 @@ profile:
   image: emrecan.jpeg
   address: >
     <p>eacikgoz17[at]ku.edu.tr</p>
-    <p>Engineering Faculty, Rumelifeneri Street, 34450,</p>
+    <p>Room Eng147, Engineering Faculty, Rumelifeneri Street, 34450,</p>
     <p>Sariyer, Istanbul, Turkey</p>
 
 news: true  # includes a list of news items
