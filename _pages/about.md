@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior [Electrical and Electronics Engineer (EEE)](https://ee.ku.edu.tr) at [Koç University](https://eng.ku.edu.tr/en/)-studying on NLP, Deep Learning. I am doing tracks in both Artifical Intelligence and Digital Signal Processing in addition to my Major. 
+I am a Computer Science MSc. student at [Koç University](https://www.ku.edu.tr/en/) and a Research Fellowship at [KUIS AI Center](https://ai.ku.edu.tr). My research is in Deep Learning, Natural Language Processing, and Multi-Modal Learning.
 
-Morphology has been a basis of linguistics, and being able to understand the morphological structure of a language (like every 3 or 4 years old child) is on of the most sophisticated task in NLU. My research focuses on morphological analysis for Turkish language-models, and explore the unsupervised acquisition of it under [KUIS AI Center](https://ai.ku.edu.tr). 
+Currenlty I am working on Large-Language Models (LLMs) and Vision Language Models (VLMs). I am also interested in investigating methods for Multilingual Morphological Analysis. Previosly I've worked for supervised/unsupervised Turkish Morphology, Adapter-Transformers, Prompting for Morphological Analysis, and Turkish LM.
 
-I am also working on Computer Vision problems in object detion, object counting, and object tracking. Since training deep neural networks requires huge amount of parameters, it is hard to embed them in a mobile devices. I am interested in efficient object-detection algorithms by implementing and combining SoTA backbone model architectures to make them able to deploy in micro-chips in a mobile embedded platform. 
+On the other hand, I am working as a Deep Learning Engineer in private company at Palo Alto, California. I've worked on implementing efficient Neural Network (NN) architecutures for several Computer Vision tasks. Now, I am working on deploying summarization and question answering models.
 
-I enjoy going to gym, snowboarding, running, and reading. I used to be a member of [Harley-Davidson Owners Group (HOG)](https://harley-davidson-istanbul-east.com/harley-owners-group).
+I enjoy going to gym, snowboarding, walking, and reading. I used to be a member of [Harley-Davidson Owners Group (HOG)](https://harley-davidson-istanbul-east.com/harley-owners-group).
 
